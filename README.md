@@ -2,7 +2,7 @@ Revision B User Interface Software is for all AG962 Demo Kits (SM125 Smart GMR M
 Software requires 64-bit Windows 7 or later.
 
 Installation Instructions:
-  1. Download and run the Setup file.
-  2. Click on the desktop shortcut to run the software.
+  1. Download and run the Setup file to install the User Interface and USB driver.
+  2. Click on the desktop shortcut to start the User Interface software.
   
 Questions? We're here to help. E-mail us at sensor-apps[at]nve.com 
